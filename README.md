@@ -29,7 +29,6 @@ Exemplo:
 ```txt
 1904#
 
-Imagem do Circuito(SIMULAÇÂO WOWKI):
-<img width="1515" height="974" alt="image" src="https://github.com/user-attachments/assets/ddf8a161-312f-412f-aeb5-ba65a7a41029" />
+
 
 
